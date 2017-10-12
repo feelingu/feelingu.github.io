@@ -1,7 +1,7 @@
 export default {
     'basics': {
-        'position': 'web前端工程师',
-        'name': '王小勇',
+        'position': 'linux驱动开发工程师',
+        'name': '王凌飞',
         'gender': '男',
         'age': '25',
         'worklife': '1.5',
@@ -9,7 +9,7 @@ export default {
         'picture': 'http://oaxfgzulv.bkt.clouddn.com/avatar.jpg',
         'email': '838432498@qq.com',
         'phone': '18333116993',
-        'website': 'https://github.com/zincode',
+        'website': 'https://feelingu.github.io',
         'summary': [
             '个人主攻 web 前端方向，有一定nodejs和php经验。',
             '喜欢关注 web 前端相关新技术，对于新技术有很强的学习兴趣。',
